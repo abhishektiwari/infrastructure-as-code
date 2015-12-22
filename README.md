@@ -3,7 +3,7 @@ This project is a skeleton for infrastructure as code implementations. You can u
 
 The seed contains a sample infrastructure as code implementation which includes,
 
-- Terraform, CloudFormation and Python Scripts for infrastructure provisioning
+- Terraform, CloudFormation, YAML and Python Scripts for infrastructure provisioning
 - Puppet/Chef for configuration management 
 - Docker for container management
 - Fabric/Capistrano for remote execution and deployment
@@ -15,3 +15,9 @@ The seed contains a sample infrastructure as code implementation which includes,
 You need git to clone this seed repository. You can get git [here](http://git-scm.com/).
 
 For the Puppet modules and Chef cookbooks, we are using [Git submodules](https://git-scm.com/docs/git-submodule).
+
+# To Do
+
+- Ansible/Salt for configuration management
+- MEAN stack as an example 
+- LAMP stack as an example
