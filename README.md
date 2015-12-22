@@ -13,9 +13,20 @@ The seed contains a sample infrastructure as code implementation which includes,
 - A hello world example to provision and configure a Nodejs application
 
 # Prerequisites
-You need git to clone this seed repository. You can get git [here](http://git-scm.com/).
 
-For the Puppet modules and Chef cookbooks, we are using [Git submodules](https://git-scm.com/docs/git-submodule).
+## Git
+You need Git to clone this seed repository. You can get git [here](http://git-scm.com/). For the Puppet modules and Chef cookbooks, we are using [Git submodules](https://git-scm.com/docs/git-submodule).
+
+## Virtualbox and Vagrant
+
+You will need to install Virtualbox and Vagrant.
+
+
+## Python Virtualenv
+
+- Python `2.7.x` and `pip` installed on your local machine
+- Once you have Python and `pip` please install `virtualenv` as described here
+
 
 # To Do
 
