@@ -27,6 +27,8 @@ You will need to install Virtualbox and Vagrant.
 - Python `2.7.x` and `pip` installed on your local machine
 - Once you have Python and `pip` please install `virtualenv` as described here
 
+# I don't want ...
+I don't want some of the folders in this seed, well just add folder name or pattern in `.gitignore`
 
 # To Do
 
