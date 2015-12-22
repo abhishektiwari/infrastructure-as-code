@@ -21,3 +21,4 @@ For the Puppet modules and Chef cookbooks, we are using [Git submodules](https:/
 - Ansible/Salt for configuration management
 - MEAN stack as an example 
 - LAMP stack as an example
+- .Net stack as an example
