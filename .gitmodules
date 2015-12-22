@@ -1,0 +1,3 @@
+[submodule "configuration/puppet/modules/nodejs"]
+	path = configuration/puppet/modules/nodejs
+	url = https://github.com/puppet-community/puppet-nodejs.git
