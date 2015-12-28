@@ -1,3 +1,9 @@
 [submodule "configuration/puppet/modules/nodejs"]
 	path = configuration/puppet/modules/nodejs
 	url = https://github.com/puppet-community/puppet-nodejs.git
+[submodule "environments/hello-world"]
+	path = environments/hello-world
+	url = git@github.com:abhishektiwari/hello-world-nodejs-express.git
+[submodule "environments/mean-stack"]
+	path = environments/mean-stack
+	url = git@github.com:abhishektiwari/mean-stack.git
