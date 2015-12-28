@@ -17,6 +17,21 @@ The seed contains a sample infrastructure as code implementation which includes,
 ## Git
 You need Git to clone this seed repository. You can get git [here](http://git-scm.com/). For the Puppet modules and Chef cookbooks, we are using [Git submodules](https://git-scm.com/docs/git-submodule).
 
+### Updating submodules
+
+All submodules,
+
+```
+git submodule foreach --recursive git pull
+```
+
+A specific module,
+
+```
+cd your/submodule
+git pull origin master
+```
+
 ## Virtualbox and Vagrant
 
 You will need to install Virtualbox and Vagrant.
